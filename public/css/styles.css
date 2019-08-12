@@ -1,3 +1,47 @@
-*{
-    background-color: red;
+body{
+    background-color: navy;
+}
+form{
+    text-align: center;
+    color: white;
+    background-color: dodgerblue;
+    width: 30%;
+    height: auto;
+    margin: auto;
+}
+hr{
+    width: 90%;
+    font-size: 1px;
+}
+.username{
+    width: 90%;
+    height: 30px;
+}
+.login{
+    text-align: center;
+    width: 100%;
+}
+button{
+    font-size: 20px;
+    color: white;
+    width: 70%;
+    height: 50px;
+    background-color: dimgrey;
+    text-align: center;
+}
+.text{
+    width: 100%;
+    height: auto;
+}
+.text_1{
+    width: 50%;
+    float: left;
+}
+.text_2{
+    width: 50%;
+    float: right;
+}
+h1{
+    font-weight: normal;
+    padding-top: 30px;
 }
